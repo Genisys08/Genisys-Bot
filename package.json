@@ -1,0 +1,15 @@
+{
+    "name": "genisys-bot",
+    "version": "1.0.0",
+    "description": "Custom WhatsApp Bot created by John",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@hapi/boom": "^10.0.1",
+        "@whiskeysockets/baileys": "^6.6.0",
+        "axios": "^1.6.0",
+        "pino": "^8.0.0"
+    }
+}
