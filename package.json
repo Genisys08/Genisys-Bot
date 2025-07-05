@@ -1,7 +1,7 @@
 {
-  "name": "genisys-web",
-  "version": "1.0.0",
-  "description": "Genisys WhatsApp Bot (Web-Ready)",
+  "name": "genisys-web-enhanced",
+  "version": "1.0.1",
+  "description": "Genisys WhatsApp Bot with Web Hosting and Enhanced Features",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
